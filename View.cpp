@@ -209,7 +209,7 @@ void View::draw (sf::RenderWindow & window, int spriteSize)
         {
             int score = scoreboard[i];
             scoreboardt.setPosition(32, 96 + 64 * i);
-            scoreboardt.setString(std::to_string(i+1) + "." + std::to_string(   score ));
+            scoreboardt.setString("#"+std::to_string(i+1) + "   " + std::to_string(   score ));
             window.draw(scoreboardt);
         }
         window.draw(button);
