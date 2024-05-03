@@ -6,7 +6,7 @@
 <img src="https://github.com/lyskawson/Snake/blob/main/Textures/image2.png" width="300" height="300">
 
 </p>
-## Snake Game
+## Snake
 
 Welcome to the classic Snake game! This version of the game includes a menu, scoreboard, and adjustable difficulty levels to enhance your gaming experience.
 
